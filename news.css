@@ -1,0 +1,15 @@
+.introduction {
+	color:green;
+}
+
+p.introduction {
+	text-align:left;
+}
+
+img.introduction {
+	background-color:red;
+}
+
+h2.introduction {
+	text-align:center;
+}
